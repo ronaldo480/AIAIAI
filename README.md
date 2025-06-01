@@ -84,6 +84,6 @@ NEXT_PUBLIC_OPENWEATHER_API_KEY=your_api_key
 
 ## 연락처
 
-프로젝트 관리자 - [이메일 주소]
+프로젝트 관리자 - [sdw1013@kentech.ac.kr]
 
 프로젝트 링크: [GitHub 저장소 URL]
