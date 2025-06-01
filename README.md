@@ -52,6 +52,7 @@ MyFashionCloset/
 │   ├── closet.js      # 옷장 관리 로직
 │   ├── outfit.js      # 코디 추천 로직
 │   └── main.js        # 공통 로직
+├── prd.md             # 페이지의 prd
 └── README.md         # 프로젝트 설명
 ```
 
