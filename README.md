@@ -52,10 +52,6 @@ MyFashionCloset/
 │   ├── closet.js      # 옷장 관리 로직
 │   ├── outfit.js      # 코디 추천 로직
 │   └── main.js        # 공통 로직
-├── assets/            # 정적 파일
-│   ├── images/        # 이미지 파일
-│   ├── videos/        # 비디오 파일
-│   └── fonts/         # 폰트 파일
 ├── prd.pdf           # PRD 문서
 └── README.md         # 프로젝트 설명
 ```
